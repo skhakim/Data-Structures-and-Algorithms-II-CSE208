@@ -1,4 +1,4 @@
-# Data-Structures-and-Algorithms-II-CSE308 
+# Data-Structures-and-Algorithms-II-CSE208 
 
 A collection of home assignments I completed in _CSE208: Data Structures and Algorithms_. 
 
